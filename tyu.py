@@ -1,2 +1,2 @@
-ch=str(input())
-print(len(ch))
+td=str(input())
+print(len(td))
